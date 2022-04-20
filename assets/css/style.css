@@ -42,6 +42,20 @@ margin-top: 50px;
 }
 
 /* =======  aCustom ======= */
+.menu-contactgegevens {
+position: relative;
+top: -60px;
+}
+
+.menu-contactgegevens p {
+    padding: 0;
+    padding-bottom: 0 !important;
+    margin-bottom: 0;
+}
+
+
+
+
 #leesverder > div > div > div.col-md-12.mb-20.text-center > h6 {
   
   
@@ -113,7 +127,7 @@ body > div.togo-side-content > section > div > div > div.col-md-6.mb-20.image > 
   
   
   
- top: 671%;
+ /***top: 671%; ***/
   
   
   
@@ -170,7 +184,7 @@ body > div.togo-side-content > section > div > div > div > div > div > div > div
 body > div.togo-fixed-sidebar.togo-sidebar-left > div > div.togo-menu-social-media > div.togo-menu-copyright > p {
   
 margin-top: 98%;
-
+color: #c5a47e !important;
 }
 
 
